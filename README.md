@@ -1,6 +1,7 @@
 # [TCSVT2026] Rethinking Objective Image Quality Assessment with Federated Learning
 
-> [Shishun Tian](https://ceie.szu.edu.cn/info/1018/3163.htm), Yonghong Zheng,  [Guanghui Yue](https://bme.szu.edu.cn/info/1164/1673.htm), [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html), [Patrick Le Callet](https://pagesperso.ls2n.fr/~lecallet-p/),
+> [Shishun Tian](https://ceie.szu.edu.cn/info/1018/3163.htm), Yonghong Zheng,  [Guanghui Yue](https://bme.szu.edu.cn/info/1164/1673.htm), [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html), [Patrick Le Callet](https://pagesperso.ls2n.fr/~lecallet-p/)
+
 > *TCSVT 2025*, Paper Link (in press, coming soon...)
 
 ## Abstract
