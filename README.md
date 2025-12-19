@@ -2,7 +2,7 @@
 
 > [Shishun Tian](https://ceie.szu.edu.cn/info/1018/3163.htm), Yonghong Zheng,  [Guanghui Yue](https://bme.szu.edu.cn/info/1164/1673.htm), [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html), [Patrick Le Callet](https://pagesperso.ls2n.fr/~lecallet-p/)
 
-> *TCSVT 2025*, Paper Link (in press, coming soon...)
+> *TCSVT 2026*, Paper Link (in press, coming soon...)
 
 ## Abstract
 Deep neural network (DNN)-based image quality assessment (IQA) methods have achieved remarkable progress in recent years. However, existing DNN-based IQA approaches still face two major challenges. First,  IQA datasets usually suffer from insufficient training samples. Second, substantial differences in quality scoring standards and scales among different datasets limit the unified training of IQA models. In this paper, we propose a novel objective IQA training framework based on federated learning (FL). To tackle the problem of insufficient labeled training samples, the proposed FL-based IQA framework conducts collaborative training by uniting samples from different datasets. Instead of simply mixing multiple datasets, we train the IQA model on each dataset individually and aggregate the results of different models. Meanwhile, considering the inconsistencies in the scoring standards and scales of different datasets, we propose a model decoupling strategy to divide the model into shared and personalized components: the former maintains global knowledge across all models, while the latter allows flexible adjustments tailored to the specific characteristics of individual datasets. Experiments on five IQA datasets show that our proposed FL-based IQA framework has improvements in accuracy and robustness on existing IQA models.
@@ -41,7 +41,7 @@ python main.py
 ## Citation
 
 ```
-
+ Coming soon...
 ```
 
 ## Acknowledgements
