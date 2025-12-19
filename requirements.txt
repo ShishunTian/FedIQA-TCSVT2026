@@ -1,0 +1,8 @@
+scipy
+timm
+torch
+torchvision
+numpy
+pandas
+h5py
+tabulate
