@@ -51,3 +51,10 @@ FedIQA is based on the following open-source projects. We thank the authors for 
 - [TReS](https://github.com/isalirezag/TReS)
 - [hyperIQA](https://github.com/SSL92/hyperIQA)
 - [PFLlib](https://github.com/TsingZ0/PFLlib?tab=readme-ov-file)
+
+Datasets:
+- [CSIQ]( https://s2.smu.edu/~eclarson/csiq.html)
+- [TID2013](https://www.ponomarenko.info/tid2013.htm)
+- [KADID-10k](https://database.mmsp-kn.de/kadid-10k-database.html)
+- [Clive](https://live.ece.utexas.edu/research/ChallengeDB/)
+- [KonIQ-10k](https://database.mmsp-kn.de/koniq-10k-database.html)
