@@ -43,7 +43,7 @@ python main.py
 ```
 @article{tian2026rethinking,
   title={Rethinking Objective Image Quality Assessment with Federated Learning},
-  author={Tian, Shishun and Zheng Yonghong and Yue Guanghui and Lin, Weisi and Le Callet, Patrick},
+  author={Tian, Shishun and Zheng, Yonghong and Yue, Guanghui and Lin, Weisi and Le Callet, Patrick},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2026},
   publisher={IEEE}
